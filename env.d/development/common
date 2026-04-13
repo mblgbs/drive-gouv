@@ -2,7 +2,7 @@
 DJANGO_ALLOWED_HOSTS=*
 DJANGO_SECRET_KEY=ThisIsAnExampleKeyForDevPurposeOnly
 DJANGO_SETTINGS_MODULE=drive.settings
-DJANGO_SUPERUSER_PASSWORD=admin
+DJANGO_SUPERUSER_PASSWORD=000
 
 # Logging
 # Set to DEBUG level for dev only
